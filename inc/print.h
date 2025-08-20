@@ -10,4 +10,4 @@ void displayOccurrences(int *occurrenceArray);
 // Displays the Huffman tree information
 void displayHuffman(Huffman huffman, int numLetters);
 
-#endif // AFFICHAGE_H
+#endif // PRINT_H

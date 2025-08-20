@@ -88,7 +88,7 @@ int huffman_write_dot(const Huffman *h, const char *filepath)
         }
     }
 
-    // Highlight the root (optional)
+    // Highlight the root
     if (root >= 0)
     {
         fprintf(f, "  n%d [style=bold];\n", root);

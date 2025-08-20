@@ -11,4 +11,4 @@ FILE *openFile(char *fileName);
 // Stores the occurrences of characters in the file
 int *storeOccurrences(FILE *file);
 
-#endif // FICHIER_H
+#endif // FILE_H
